@@ -1,0 +1,21 @@
+
+·         Vi ønsker å kunne søke på ordformer og fraser i store tekstbaser og få opp antallet søketreff og konkordanser med treffene i kontekst.
+ 
+ 
+·         Vi ønsker å kunne differensiere mellom store og små bokstaver i søkeordet/søkeordene.
+ 
+ 
+·         Vi ønsker å kunne avgrense søk på
+o   publiseringsår (f.eks. alt nyere enn 1960, alt nyere enn 1990)
+o   målform (bokmål/nynorsk)
+o   sjanger/teksttype (f.eks. aviser, tidsskrifter, bøker)
+o   fagområde, f.eks. definert med Dewey-kode.
+ 
+ 
+·         Innenfor de avgrensningene vi definerer, ønsker vi å søke på så stort materiale som mulig, ikke f.eks. et tilfeldig utvalg av kilder.
+ 
+ 
+·         Vi ønsker å søke på ordformer og fraser over tid, slik man kan med Ngram-tjenesten. Man må kunne velge absolutt eller relativ frekvens.
+ 
+ 
+·         Spørsmål: Hva søker man i når man bruker Jupyter? Er det hele NBs digitaliserte tekstmateriale, tilsvarer det søket på nb.no, eller er det en annen base?
